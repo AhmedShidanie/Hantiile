@@ -1,2 +1,2 @@
 # Hantiile
-money transfer system
+A bookkeeping system for my bussiness
